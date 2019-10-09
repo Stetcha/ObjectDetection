@@ -2,10 +2,10 @@
 A program that let users to detect faces and eyes upon an image.
 
 ## This is how it looks like:
-![Looks](https://github.com/Stetcha/images/ObjectDetection/mainpage.png)
+![Looks](https://github.com/Stetcha/ObjectDetection/blob/master/images/mainpage.png)
 
 ### This program only detects faces and eyes on both static and live image.
-![Results](https://github.com/Stetcha/ObjectDetection/images/elliot.png)
+![Results](https://github.com/Stetcha/ObjectDetection/blob/master/images/elliot.png)
 
 It has a graphic interface for a user to be able to change from one image to another image.
 It has a button to browse an image in which you would like to detect objects from. If you know your image location, you can
