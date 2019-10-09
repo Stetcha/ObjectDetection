@@ -1,5 +1,5 @@
 # ObjectDetection
-A program that let users to detect faces and eyes upon an image.
+A program that let users to detect faces and eyes upon an image, with support of Graphical Interface.
 
 ## This is how it looks like:
 ![Looks](https://github.com/Stetcha/ObjectDetection/blob/master/images/mainpage.png)
