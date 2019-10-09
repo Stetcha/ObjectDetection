@@ -2,10 +2,10 @@
 A program that let users to detect faces and eyes upon an image.
 
 ## This is how it looks like:
-![Looks](https://github.com/Stetcha/images/mainpage.png)
+![Looks](https://github.com/Stetcha/images/ObjectDetection/mainpage.png)
 
 ### This program only detects faces and eyes on both static and live image.
-![Results](https://github.com/Stetcha/images/elliot.png)
+![Results](https://github.com/Stetcha/ObjectDetection/images/elliot.png)
 
 It has a graphic interface for a user to be able to change from one image to another image.
 It has a button to browse an image in which you would like to detect objects from. If you know your image location, you can
@@ -25,12 +25,12 @@ simply enter it on the field-box and hit "View".
  
 ### Library used are: opencv and tkinter and make sure to install them.
 ### If you are using python2 just do:
-*For opencv: pip install opencv-python 
-*For tkinter: pip install tk
+* For opencv: pip install opencv-python 
+* For tkinter: pip install tk
 
 ### If you are using python3 just do:
-*For opencv: pip3 install opencv-python 
-*For tkinter: pip3 install tk
+* For opencv: pip3 install opencv-python 
+* For tkinter: pip3 install tk
 
-##To start the program: just run startup.py
+## To start the program: just run startup.py and can use images on 'images folder' for practical purpose
 
